@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/besingular/static/css/main.2e09513a.chunk.css",
+    "main.js": "/besingular/static/js/main.7abb17c1.chunk.js",
+    "main.js.map": "/besingular/static/js/main.7abb17c1.chunk.js.map",
+    "runtime-main.js": "/besingular/static/js/runtime-main.cc561f36.js",
+    "runtime-main.js.map": "/besingular/static/js/runtime-main.cc561f36.js.map",
+    "static/css/2.feae4e64.chunk.css": "/besingular/static/css/2.feae4e64.chunk.css",
+    "static/js/2.cce84838.chunk.js": "/besingular/static/js/2.cce84838.chunk.js",
+    "static/js/2.cce84838.chunk.js.map": "/besingular/static/js/2.cce84838.chunk.js.map",
+    "index.html": "/besingular/index.html",
+    "static/css/2.feae4e64.chunk.css.map": "/besingular/static/css/2.feae4e64.chunk.css.map",
+    "static/css/main.2e09513a.chunk.css.map": "/besingular/static/css/main.2e09513a.chunk.css.map",
+    "static/js/2.cce84838.chunk.js.LICENSE.txt": "/besingular/static/js/2.cce84838.chunk.js.LICENSE.txt",
+    "static/media/avatar.5fa4be18.jpg": "/besingular/static/media/avatar.5fa4be18.jpg",
+    "static/media/font-awesome.css": "/besingular/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/reward.398abdd6.gif": "/besingular/static/media/reward.398abdd6.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc561f36.js",
+    "static/css/2.feae4e64.chunk.css",
+    "static/js/2.cce84838.chunk.js",
+    "static/css/main.2e09513a.chunk.css",
+    "static/js/main.7abb17c1.chunk.js"
+  ]
+}
